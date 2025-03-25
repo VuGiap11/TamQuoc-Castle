@@ -1,0 +1,217 @@
+{
+  "HeroDatas": [
+    {
+      "Index": 0,
+      "Name": "Caocao",
+      "Atk": 3,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 0,
+      "HeroType": 0,
+      "Price": 0,
+      "Star": 0,
+      "PathUI": "HeroUI/No0"
+    },
+    {
+      "Index": 1,
+      "Name": "Chuntian",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 0,
+      "HeroType": 0,
+      "Price": 0,
+      "Star": 0,
+      "PathUI": "HeroUI/No1"
+    },
+    {
+      "Index": 2,
+      "Name": "Guanyu",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 0,
+      "HeroType": 0,
+      "Price": 100,
+      "Star": 0
+    },
+    {
+      "Index": 3,
+      "Name": "JiangWei",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 0,
+      "HeroType": 1,
+      "Price": 100,
+      "Star": 1
+    },
+    {
+      "Index": 4,
+      "Name": "jiche",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 1,
+      "HeroType": 0,
+      "Price": 100,
+      "Star": 1,
+      "PathUI": "HeroUI/No0"
+    },
+    {
+      "Index": 5,
+      "Name": "Jichenv",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 1,
+      "HeroType": 0,
+      "Price": 100,
+      "Star": 2
+    },
+    {
+      "Index": 6,
+      "Name": "LiuBei",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 1,
+      "HeroType": 0,
+      "Price": 100,
+      "Star": 2
+    },
+    {
+      "Index": 7,
+      "Name": "Lvbu",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 1,
+      "HeroType": 0,
+      "Price": 100,
+      "Star": 2
+    },
+    {
+      "Index": 8,
+      "Name": "Lvlingqi",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 1,
+      "HeroType": 0,
+      "Price": 100,
+      "Star": 3
+    },
+    {
+      "Index": 9,
+      "Name": "Lvmeng",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 1,
+      "HeroType": 0,
+      "Price": 100,
+      "Star": 3
+    },
+    {
+      "Index": 10,
+      "Name": "Machao",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 1,
+      "HeroType": 0,
+      "Price": 100,
+      "Star": 3
+    },
+    {
+      "Index": 11,
+      "Name": "Nanzhujiao",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 2,
+      "HeroType": 0,
+      "Price": 100,
+      "Star": 3
+    },
+    {
+      "Index": 12,
+      "Name": "Nanzhujue",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 2,
+      "HeroType": 0,
+      "Price": 100,
+      "Star": 4
+    },
+    {
+      "Index": 13,
+      "Name": "nvzhujue",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 2,
+      "HeroType": 0,
+      "Price": 100,
+      "Star": 4
+    },
+    {
+      "Index": 14,
+      "Name": "Pangtong",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 2,
+      "HeroType": 0,
+      "Price": 100,
+      "Star": 4
+    },
+    {
+      "Index": 15,
+      "Name": "sunce",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 2,
+      "HeroType": 0,
+      "Price": 100,
+      "Star": 4
+    },
+    {
+      "Index": 16,
+      "Name": "sunquan",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 2,
+      "HeroType": 0,
+      "Price": 100,
+      "Star": 4
+    },
+    {
+      "Index": 17,
+      "Name": "TaiShici",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 2,
+      "HeroType": 0,
+      "Price": 100,
+      "Star": 4
+    },
+    {
+      "Index": 18,
+      "Name": "Xiahouyuan",
+      "Atk": 6,
+      "Spd": 10,
+      "Hp": 100,
+      "Country": 2,
+      "HeroType": 1,
+      "Price": 100,
+      "Star": 4
+    }
+  ]
+
+}

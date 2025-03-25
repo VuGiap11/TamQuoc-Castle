@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: HeroSO 11
+  m_EditorClassIdentifier: Assembly-CSharp:TamQuoc:HeroSO
+  Index: 11
+  GoUI: {fileID: 7046696822899754388, guid: cc879806ea82b32468446d8a485e0e98, type: 3}
+  SkeletonDataAsset: {fileID: 11400000, guid: 62bf7fca88be26b4db7cbd0936fe3886, type: 2}
